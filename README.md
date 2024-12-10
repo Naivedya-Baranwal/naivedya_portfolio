@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# Naivedya Baranwal's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a frontend portfolio application created using **React**, **JavaScript**, **HTML**, and **CSS**. It showcases my projects, skills, and experience in web development.
 
-## Available Scripts
+## Live Demo
 
-In the project directory, you can run:
+You can view the live portfolio at: [Naivedya Baranwal's Portfolio](https://naivedya-baranwal.github.io/naivedya_portfolio/)
 
-### `npm start`
+## Technologies Used
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Frontend:**
+  - **React**: A JavaScript library for building user interfaces, enabling the creation of reusable UI components.
+  - **JavaScript**: The programming language used for implementing dynamic behavior on web pages.
+  - **HTML**: The standard markup language for creating the structure of the web application.
+  - **CSS**: Used for styling the application, ensuring a visually appealing and responsive design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Features
 
-### `npm test`
+- **Responsive Design**: The portfolio adapts to different screen sizes, providing a seamless experience on both mobile and desktop devices.
+- **Project Showcase**: Displays various projects with descriptions, technologies used, and links to live demos or GitHub repositories.
+- **Skills Overview**: Highlights my technical skills and areas of expertise in web development.
+- **Contact Information**: Provides easy access for potential employers or collaborators to reach out via email or social media links.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Skills
 
-### `npm run build`
+- **Programming Languages**:
+  - JavaScript
+  - HTML
+  - CSS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frameworks and Libraries**:
+  - React
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Tools & Technologies**:
+  - Git & GitHub
+  - npm (Node Package Manager)
+  - Visual Studio Code (IDE)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Acknowledgements
 
-### `npm run eject`
+- Inspired by various open-source projects and developers within the tech community.
+- Special thanks to mentors and peers for their support and guidance throughout my learning journey.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To run this project locally, follow these steps:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Naivedya-Baranwal/naivedya_portfolio.git
