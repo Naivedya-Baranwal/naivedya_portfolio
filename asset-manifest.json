@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/naivedya_portfolio/static/css/main.bbbbfa1a.css",
+    "main.js": "/naivedya_portfolio/static/js/main.8920bb7b.js",
+    "static/media/Laptop_image.jpg": "/naivedya_portfolio/static/media/Laptop_image.efbad84c51d784f3184f.jpg",
+    "static/media/Table.jpg": "/naivedya_portfolio/static/media/Table.5dfc45da18f354dd462b.jpg",
+    "static/media/Laptop_image_with_quote.jpg": "/naivedya_portfolio/static/media/Laptop_image_with_quote.a1d8ddf639a9119a6764.jpg",
+    "static/media/github.svg": "/naivedya_portfolio/static/media/github.4bc72f28e79178cdc9c76db0b22c501e.svg",
+    "static/media/linkedin.svg": "/naivedya_portfolio/static/media/linkedin.36bd4fb37078da2bbffc9b70a0acc872.svg",
+    "index.html": "/naivedya_portfolio/index.html",
+    "static/media/down-arrow.svg": "/naivedya_portfolio/static/media/down-arrow.91079b27aa77759d539380d0c831ab87.svg",
+    "static/media/envelope.svg": "/naivedya_portfolio/static/media/envelope.33857507a5ba83c373a8c7d5f0d0c948.svg",
+    "main.bbbbfa1a.css.map": "/naivedya_portfolio/static/css/main.bbbbfa1a.css.map",
+    "main.8920bb7b.js.map": "/naivedya_portfolio/static/js/main.8920bb7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbbbfa1a.css",
+    "static/js/main.8920bb7b.js"
+  ]
+}
